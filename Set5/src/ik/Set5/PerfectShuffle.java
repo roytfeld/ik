@@ -48,7 +48,6 @@ public class PerfectShuffle {
                 table[0][j+1] = true;
             }
         }
-
         return table[a.length()][b.length()];
     }
 

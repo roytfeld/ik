@@ -37,8 +37,25 @@ public class MaxCoinGameDynamic {
     }
 
     public static int game(int[] arr)  throws IOException {
-        int dp[][] = new int[arr.length][arr.length];
+        if (arr.length == 1) {
+            return arr[0];
+        }
+        int dp[][] = new int[arr.length+2][arr.length+2];
+        for (int i = arr.length; i >= 1; i--) {
+            for (int j = 0; j <= arr.length; j++) {
+                if (i==j) {
+                    dp[i][j] = arr[i-1];
+                }
+                if (i < j) {
+                    int v1 = Math.min(dp[i+1][j-1], dp[i+2][j]) + arr[i-1];
+                    int v2 = Math.min(dp[i+1][j-1], dp[i][j-2]) + arr[j-1];
+                    dp[i][j] = Math.max(v1,v2);
+                }
+            }
+        }
+        return dp[1][arr.length];
         //return game(arr, 0, arr.length-1, dp); //recursive with memorization
+        /*
         for (int len=0; len<arr.length; len++) {
             for (int left=0; left<arr.length-len; left++) {
                 int right = left+len-1;
@@ -48,26 +65,6 @@ public class MaxCoinGameDynamic {
             }
         }
         return dp[0][arr.length-1];
-/*
-        // Create a table to store solutions of subproblems
-        int table[][] = new int[n][n];
-        int gap, i, j, x, y, z;
-        for (gap = 0; gap < n; ++gap) {
-            for (i = 0, j = gap; j < n; ++i, ++j) {
-
-                // Here x is value of F(i+2, j),
-                // y is F(i+1, j-1) and z is
-                // F(i, j-2) in above recursive formula
-                x = ((i + 2) <= j) ? table[i + 2][j] : 0;
-                y = ((i + 1) <= (j - 1)) ? table[i + 1][j - 1] : 0;
-                z = (i <= (j - 2)) ? table[i][j - 2] : 0;
-
-                table[i][j] = Math.max(arr[i] + Math.min(x, y),
-                        arr[j] + Math.min(y, z));
-            }
-        }
-
-        return table[0][n - 1];
         */
     }
 
