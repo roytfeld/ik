@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aef63b3a-c5fe-4850-a41b-1e4e07c3ed6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Set1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/Set1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/DutchNationalFlag.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/GroupTheNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/HeapSort.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/KSortedArrays.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/KthLargest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/KthSmallest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/LexicographicalOrder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/MergeTwoSortedArrays.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/NutsAndBolts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/QuickSort.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/ThreeSum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/in/TopK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/META-INF/Set1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/DutchNationalFlag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/GroupTheNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/KthLargestDuplicatesAllowed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/KthSmallest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/MergeTwoSortedArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/MinHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/NutsAndBolts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/out/production/Set1/ik/Set1/TopKNoDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/DutchNationalFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/GroupTheNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/KthLargestDuplicatesAllowed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/KthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/MergeTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/NutsAndBolts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/src/ik/Set1/TopKNoDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/to/GroupTheNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/to/KSortedArrays.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/to/LexicographicalOrder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/to/NutsAndBolts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/to/ThreeSum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set1/to/TopK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/Set2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/in/ClimbTheStairs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/in/Factorial.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/in/Fibonacci.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/in/FindWellFormedBrackets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/in/NQueens.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/in/Palindromes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/in/PossibleToAchieveTargetSum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/in/SubsetOfASet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/out/production/Set2/META-INF/Set2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/out/production/Set2/ik/Set2/ClimbTheStairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/out/production/Set2/ik/Set2/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/out/production/Set2/ik/Set2/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/out/production/Set2/ik/Set2/FindWellFormedBrackets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/out/production/Set2/ik/Set2/NQueens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/out/production/Set2/ik/Set2/Palindromes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/out/production/Set2/ik/Set2/PossibleToAchieveTargetSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/out/production/Set2/ik/Set2/RegexMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/out/production/Set2/ik/Set2/SubsetsOfASet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/src/ik/Set2/ClimbTheStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/src/ik/Set2/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/src/ik/Set2/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/src/ik/Set2/FindWellFormedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/src/ik/Set2/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/src/ik/Set2/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/src/ik/Set2/PossibleToAchieveTargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/src/ik/Set2/RegexMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set2/src/ik/Set2/SubsetsOfASet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in/IsBST.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in/SingleValueTree.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in/UpsideDown.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/CompareInOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/CompareTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/InOrderSuccessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/IsBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/LeastCommonAncestorBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/PathSumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/PrintAllNodesAtLevelK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/SingleValueTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/Set3/UpsideDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/Graphs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/in/AlienDictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/in/DoorsAndKeys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/in/KnightTour.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/in/StringTransformation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/in/TrasnposeGraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/AlienDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/CountIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/DoorsAndKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/GraphBFSDetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/GraphBFSIteractive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/GraphBFSWithPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/GraphDFSCountNodesAtLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/GraphDFSIteractive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/GraphDFSRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/KnightTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/StringTransformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/TransposeGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set4/src/ik/Set4/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/Dynamic Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/in/CoinChange.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/in/GoldenRod.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/in/MaxCoinGame.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/in/PerfectShuffle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/out/production/Dynamic Programming/META-INF/Dynamic Programming.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/out/production/Dynamic Programming/ik/Set5/CoinChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/out/production/Dynamic Programming/ik/Set5/GoldenRod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/out/production/Dynamic Programming/ik/Set5/MaxCoinGameDynamic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/out/production/Dynamic Programming/ik/Set5/MaxCoinGameRecursive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/out/production/Dynamic Programming/ik/Set5/PerfectShuffle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/src/ik/Set5/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/src/ik/Set5/GoldenRod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/src/ik/Set5/MaxCoinGameDynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/src/ik/Set5/MaxCoinGameRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set5/src/ik/Set5/PerfectShuffle.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ik/Set3/UpsideDown.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/in/UpsideDown.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readRawValues</find>
+      <find>System.out</find>
+      <find>Edge</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ik/Set3/Main.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/PrintAllNodesAtLevelK.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/PathSumK.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/InOrderSuccessor.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/KthLargest.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/CompareTrees.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/CompareInOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/UpsideDown.java" />
+        <option value="$PROJECT_DIR$/in/SingleValueTree.txt" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/IsBST.java" />
+        <option value="$PROJECT_DIR$/in/IsBST.txt" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/LeastCommonAncestor.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/Node.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/LeastCommonAncestorBST.java" />
+        <option value="$PROJECT_DIR$/src/ik/Set3/SingleValueTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Set3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Set3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Set3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Set3" type="462c0819:PsiDirectoryNode" />
+              <item name="in" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Set3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Set3" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Set3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Set3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Set3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Set3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Set3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551754475938" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ik.Set3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\ik\Set3\in" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ik.Set3.UpsideDown" />
+      <module name="Trees" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/in/UpsideDown.txt" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aef63b3a-c5fe-4850-a41b-1e4e07c3ed6e" name="Default Changelist" comment="" />
+      <created>1551027914858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551027914858</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28456375" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32981783" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32981783" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32981783" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/PrintAllNodesAtLevelK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#596#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/PathSumK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/CompareTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/IsBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/CompareInOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/LeastCommonAncestorBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/SingleValueTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/InOrderSuccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/SingleValueTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/KthLargest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/IsBST.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ik/Set3/UpsideDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/UpsideDown.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
